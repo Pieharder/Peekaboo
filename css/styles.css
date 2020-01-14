@@ -3,7 +3,7 @@ img {
   width: auto;
 }
 
-.walrus-showing {
+#initially-hidden {
   display: none;
 }
 

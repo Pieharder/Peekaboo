@@ -1,6 +1,8 @@
+// front-end logic:
+
 $(document).ready(function() {
     $(".clickable").click(function() {
-      $(".walrus-showing").toggle();
-      $(".walrus-hidden").toggle();
+      $("#initially-hidden").toggle();
+      $("#initially-showing").toggle();
     });
   });
